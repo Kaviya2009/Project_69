@@ -1,0 +1,54 @@
+body
+{
+    text-align: center;
+}
+
+#video
+{
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+
+#name
+{
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+#name2
+{
+    font-family: 'Nuosu SIL', serif;
+}
+
+.travel_mainDiv
+{
+    border: 1px solid lightgrey;
+}
+
+.travel_mainDiv img
+{
+    width: 100%;
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+    margin: 20px;
+}
+
+#debate
+{
+    height: 250px;
+    width: 500;
+}
+
+#soccer
+{
+    height: 250px;
+    width: 500;
+}
+
+#science
+{
+    height: 250px;
+    width: 500;
+}
